@@ -1,0 +1,11 @@
+Lab 2 Notes:
+
+------
+
+Lab 2 Rubric:
+* (5 pts) All files contain updated javadoc (update due date, description and version number)
+* (5 pts) There are no hard coded numbers in the program. All input validation is done via final variables or appropriate method calls.
+* (10 pts) Code contains Customer Class with all appropriate instance variables and methods as defined by the instructions.
+* (15 pts) Driver Class contains two new menu items with appropriate functionality as defined by the instructions.
+* (5 pts) Code does not exit if there are customers still in the queue.
+* (10 pts) Code compiles, runs and performs correct calculation of all costs (displayed the appropriate units and decimal places).
