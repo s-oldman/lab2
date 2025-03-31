@@ -32,7 +32,7 @@ public interface Constants {
     /**
      * Filename containing list of TV IDs (plaintext). Relative to classpath root.
      */
-    final String fileName = "stack.txt";
+    final String fileName = "txt/stack.txt";
 
     /**
      * Constants for calculating cost.
